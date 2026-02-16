@@ -22,26 +22,38 @@ Especially for those of you who:
 This tool has several operation modes that you can select via the icons at the top:
 
 1.  **Merge PDF**
+        <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/d2a098dc-9a48-47fd-85f5-0311e4001cab" />
+
     - **Function:** Combine multiple PDF files into a single document.
     - **How to use:** Upload the PDF files you want to merge. The file order can be arranged by dragging and dropping them directly in the preview area. Click "Process & Download" to start merging.
 
 2.  **Split PDF**
+       <img width="1913" height="878" alt="image" src="https://github.com/user-attachments/assets/31e69739-f6e9-4878-aa11-1972a1cbb362" />
+
     - **Function:** Extract specific pages from a PDF file into new, separate files.
     - **How to use:** Upload 1 PDF file. An input field will appear below. Enter the page numbers or ranges you want to extract. Example: `1-3, 5, 7-9` (meaning pages 1 to 3, page 5, and pages 7 to 9 will be created as separate files).
 
-3.  **Rotate PDF**
+4.  **Rotate PDF**
+        <img width="1909" height="879" alt="image" src="https://github.com/user-attachments/assets/7446ad25-6e29-45be-8104-696edbbff760" />
+
     - **Function:** Rotate one or multiple pages within a PDF file.
     - **How to use:** Upload 1 PDF file. The pages will be displayed. Click the pages you want to rotate (you can select multiple), then choose the rotation angle (+90°, -90°, or 180°). This tool can also automatically detect if some pages are already skewed and will offer a correction.
 
-4.  **JPG to PDF**
+5.  **JPG to PDF**
+        <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/9cb6b12c-158a-4f9b-811f-85a2a449c19a" />
+
     - **Function:** Convert image files (JPG/PNG) into a single PDF file.
     - **How to use:** Upload your image files. The order of images in the PDF can be arranged by dragging and dropping. Click "Process" to start the conversion.
 
-5.  **Excel to PDF**
+6.  **Excel to PDF**
+        <img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/840b872e-b47d-4efd-b8cc-9264d0629aa1" />
+
     - **Function:** Convert an Excel file (`.xlsx` / `.xls`) into a PDF file.
     - **How to use:** Upload 1 Excel file. The tool will read the data from the first sheet and convert it into a table within the PDF.
 
-6.  **Rearrange Pages**
+7.  **Rearrange Pages**
+        <img width="1918" height="886" alt="Screenshot 2026-02-16 105848" src="https://github.com/user-attachments/assets/2e9993f2-0b60-4068-a13e-46208dffdcad" />
+
     - **Function:** Change the order of pages in a PDF file, or even delete unwanted pages.
     - **How to use:** Upload 1 PDF file. All pages will appear as "cards." You can:
         - **Drag the cards** to change the order.
